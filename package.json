@@ -1,7 +1,7 @@
 {
   "name": "remix-live-gh-pages",
   "version": "1.0.0",
-  "description": "",
+  "description": "node server.js",
   "main": "app.0.24.1.1654781165156.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,5 +14,14 @@
     "koa": "^2.13.4",
     "koa-static": "^5.0.0",
     "mime": "^3.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AwJayChou/remix-local.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AwJayChou/remix-local/issues"
+  },
+  "homepage": "https://github.com/AwJayChou/remix-local#readme"
 }
